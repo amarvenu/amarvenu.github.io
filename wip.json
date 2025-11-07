@@ -36,5 +36,17 @@
     ],
     "abstract": "",
     "appendedText": ""
+  },
+  {
+    "title": "Streamlining as a Housing Supply Tool: Evidence from California",
+    "authors": [
+        {
+            "name": "Olivia H. Martin",
+            "link": "https://olivia-martin11.github.io/"
+        }
+    ],
+    "abstract": "This paper examines the effects of permit streamlining on affordable housing supply using California's Senate Bill 35 (SB 35), which streamlines approval processes for urban affordable apartment projects in exchange for prevailing wage requirements. Using novel project-level data covering approximately 190,000 housing applications from 2018-2025, I exploit variation in statutory eligibility cutoffs and geographic differences in prevailing wage costs to identify the causal effects of streamlining on affordable housing supply.",
+    "appendedText": ""
   }
 ]
+
