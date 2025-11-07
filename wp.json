@@ -1,9 +1,9 @@
 [
     {
-        "title": "Individual and Social Effects of Shelter for People Experiencing Homelessness: Evidence From Los Angeles County's Winter Shelters Program",
+        "title": "The Social and Individual Effects of Homeless Shelter: Evidence from Temporary Shelter Provision",
         "authors": [
           {
-            "name": "Olivia Martin",
+            "name": "Olivia H. Martin",
             "link": "https://olivia-martin11.github.io/"
           },
           {
@@ -15,9 +15,52 @@
             "link": "https://mgduggan.people.stanford.edu/"
           }
         ],
-        "date": "October 2024",
-        "pdf": "https://olivia-martin11.github.io/files/Shelters_Working_Paper_Christopher_Duggan_Martin.pdf",
-        "abstract": "We exploit variation from shocks to shelter availability from Los Angeles County’s winter shelters program to study the effects of shelter provision and sheltered (versus unsheltered) home- lessness. We leverage records of homeless services to generate daily, site-level counts of shelter beds and occupants from 2014 to 2019. We pair shelter counts with block-level crime data and facility-level data on ER visits to assess the impacts of shelter on crime and health outcomes. Fur- ther, using enrollment-level homeless services data, we evaluate the effect of shelter on returns to homeless services, observed exits from homelessness, and observed mortality. While preliminary estimates suggest that street outreach may be just as effective as shelter in reducing an individual’s likelihood of still being homeless 6-18 months in the future, our findings indicate that increased investment in shelter provision may be optimal given its ability to mitigate both private and social costs of homelessness.",
+        "date": "October 2025",
+        "pdf": "https://www.nber.org/system/files/working_papers/w34376/w34376.pdf",
+        "abstract": "What does homeless shelter achieve? We leverage administrative records of homeless services in Los Angeles County to construct a novel dataset of daily, site-level counts of shelter beds and occupants from 2014 to 2019. We pair this with daily, block-level crime incident data and daily, hospital-level data on ER visits to assess the relationship between shelter and area crime and health. We exploit variation from shocks to shelter availability from Los Angeles County's winter shelters program to study the effects of providing temporary shelter. We find that reducing unsheltered homelessness significantly reduces crime and ER visits for psychiatric conditions. We conclude with evidence that entering shelter also reduces short-run mortality but find no evidence that temporary shelter reduces future homelessness more than street outreach or other non-shelter services. Our findings suggest that shelter functions as a public good with high social benefits. When agents charged with provision of homeless services are evaluated on their ability to reduce overall homelessness, they are unlikely to internalize these benefits and may under provide shelter.",
+        "appendedText": "Under Review"
+      },
+      {
+        "title": "Courts and the Policing of Homelessness",
+        "authors": [
+          {
+            "name": "Olivia H. Martin",
+            "link": "https://olivia-martin11.github.io/"
+          },
+          {
+            "name": "Alexia Olaizola",
+            "link": "https://www.alexiaolaizola.com/"
+          }
+        ],
+        "abstract": "Federal court decisions can reshape local governments’ enforcement authority, but their impact depends on how cities adapt. Between 2018 and 2024, federal rulings restricted Western U.S. cities’ ability to cite individuals for sleeping or camping in public unless adequate shelter was available. This limitation was widely blamed for rising visible homelessness. Using novel data on enforcement and homelessness from over 50 cities along with a synthetic difference-in-differences design, we find no evidence that the rulings substantially reduced enforcement or increased visible homelessness. Cities responded heterogeneously: some curtailed citations, while others maintained enforcement through alternative mechanisms such as encampment clearings. When the Supreme Court reversed the restrictions in 2024, citations rose but homelessness did not decline. These results suggest that federal constraints on local enforcement have limited effects when cities can adapt along unregulated margins, and that structural conditions such as housing costs and service capacity likely play a larger role in shaping unsheltered homelessness.",
         "appendedText": ""
+      },
+      {
+        "title": "Evaluating Generative AI in Benefits Administration: A Demonstration Project",
+        "authors": [
+          {
+            "name": "Olivia H. Martin",
+            "link": "https://olivia-martin11.github.io/"
+          },
+          {
+            "name": "Varun Magesh",
+            "link": ""
+          },
+          {
+            "name": "Faiz Surani",
+            "link": ""
+          },
+          {
+            "name": "Kit Rodolfa",
+            "link": ""
+          },
+          {
+            "name": "Daniel E. Ho",
+            "link": "https://dho.stanford.edu/about/"
+          }
+        ],
+        "abstract": "Government benefits programs are a primary touchpoint between citizens and the state. Yet they form a core challenge for government modernization, with legacy systems that strain when demand is highest. Agencies are exploring artificial intelligence (AI) and machine learning (ML) tools for these systems while vendors eagerly market such solutions. The potential benefits and risks of these tools are profound when applied to benefits systems where timeliness and accuracy are essential to due process. We present a collaboration with the US Department of Labor (DOL) and the Colorado Department of Labor and Employment (CDLE) to develop and evaluate Generative AI tools to modernize a pillar of the social safety net: Unemployment Insurance (UI). We make four primary contributions. First, we established the first comprehensive sandbox environment for AI evaluation in benefits administration, enabling co-design of a GenAI system with agency staff and providing unique access to granular, individual-level adjudication data such as editing patterns and cross-adjudicator variation. Second, we developed a systematic methodology for eliciting and encoding expert quality assessment from adjudicators, contributing to the broader challenge of measuring adjudication quality and aligning AI systems with domain-expert values. Third, we conducted a randomized controlled trial evaluating our fact finding assistance system on real, historical cases, with outcome measures capturing both decision quality and fine-grained behavioral data. Fourth, our evaluation reveals a critical divergence: AI fact finding was a substantial improvement to historical (observational) baselines and examiners subjectively rated the system highly; but the system did not improve quality or efficiency in the sandbox control group, though it may reduce inter-adjudicator variance. This contrast demonstrates that rigorous, context-situated evaluation is essential to evaluate AI in legal contexts.",
+        "appendedText": "Under Review"
       }
 ]
+

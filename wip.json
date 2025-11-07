@@ -1,13 +1,13 @@
 [
   {
-    "title": "Encampments, Emergency Shelter Supply and the Policing of Homelessness",
+    "title": "Participation and Representation in Local Government Speech",
     "authors": [
+        {
+            "name": "Olivia H. Martin",
+            "link": "https://olivia-martin11.github.io/"
+        },
       {
-        "name": "Olivia Martin",
-        "link": "https://olivia-martin11.github.io/"
-      },
-      {
-        "name": "Alexia Olaizola",
+        "name": "Amar Venugopal",
         "link": ""
       }
     ],
@@ -15,16 +15,24 @@
     "appendedText": ""
   },
   {
-    "title": "Participation and Representation in Local Government Speech",
+    "title": "Detailees",
     "authors": [
         {
-            "name": "Olivia Martin",
+            "name": "Olivia H. Martin",
             "link": "https://olivia-martin11.github.io/"
         },
-      {
-        "name": "Amar Venugopal",
-        "link": ""
-      }
+        {
+          "name": "Isaac Cui",
+          "link": ""
+        },
+        {
+          "name": "Daniel E. Ho",
+          "link": "https://dho.stanford.edu/about/"
+        },
+        {
+          "name": "Anne Joseph O'Connell",
+          "link": "https://law.stanford.edu/anne-joseph-oconnell/"
+        }
     ],
     "abstract": "",
     "appendedText": ""
