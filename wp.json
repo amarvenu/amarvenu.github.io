@@ -28,29 +28,6 @@
         "pdf": "https://drive.google.com/file/d/10RQLsN4AyfJb-izo-YHwOuTq0V6q5wdX/view",
         "abstract": "Federal court decisions can reshape local governments’ enforcement authority, but their impact depends on how cities adapt. Between 2018 and 2024, federal rulings restricted Western U.S. cities’ ability to cite individuals for sleeping or camping in public unless adequate shelter was available. This limitation was widely blamed for rising visible homelessness. Using novel data on enforcement and homelessness from over 50 cities along with a synthetic difference-in-differences design, we find no evidence that the rulings substantially reduced enforcement or increased visible homelessness. Cities responded heterogeneously: some curtailed citations, while others maintained enforcement through alternative mechanisms such as encampment clearings. When the Supreme Court reversed the restrictions in 2024, citations rose but homelessness did not decline. These results suggest that federal constraints on local enforcement have limited effects when cities can adapt along unregulated margins, and that structural conditions such as housing costs and service capacity likely play a larger role in shaping unsheltered homelessness.",
         "appendedText": ""
-      },
-      {
-        "title": "Evaluating Generative AI in Benefits Administration: A Demonstration Project",
-        "authors": [
-          {
-            "name": "Varun Magesh",
-            "link": ""
-          },
-          {
-            "name": "Faiz Surani",
-            "link": ""
-          },
-          {
-            "name": "Kit Rodolfa",
-            "link": ""
-          },
-          {
-            "name": "Daniel E. Ho",
-            "link": "https://dho.stanford.edu/about/"
-          }
-        ],
-        "abstract": "Government benefits programs are a primary touchpoint between citizens and the state. Yet they form a core challenge for government modernization, with legacy systems that strain when demand is highest. Agencies are exploring artificial intelligence (AI) and machine learning (ML) tools for these systems while vendors eagerly market such solutions. The potential benefits and risks of these tools are profound when applied to benefits systems where timeliness and accuracy are essential to due process. We present a collaboration with the US Department of Labor (DOL) and the Colorado Department of Labor and Employment (CDLE) to develop and evaluate Generative AI tools to modernize a pillar of the social safety net: Unemployment Insurance (UI). We make four primary contributions. First, we established the first comprehensive sandbox environment for AI evaluation in benefits administration, enabling co-design of a GenAI system with agency staff and providing unique access to granular, individual-level adjudication data such as editing patterns and cross-adjudicator variation. Second, we developed a systematic methodology for eliciting and encoding expert quality assessment from adjudicators, contributing to the broader challenge of measuring adjudication quality and aligning AI systems with domain-expert values. Third, we conducted a randomized controlled trial evaluating our fact finding assistance system on real, historical cases, with outcome measures capturing both decision quality and fine-grained behavioral data. Fourth, our evaluation reveals a critical divergence: AI fact finding was a substantial improvement to historical (observational) baselines and examiners subjectively rated the system highly; but the system did not improve quality or efficiency in the sandbox control group, though it may reduce inter-adjudicator variance. This contrast demonstrates that rigorous, context-situated evaluation is essential to evaluate AI in legal contexts.",
-        "appendedText": "Under Review"
       }
 ]
 
