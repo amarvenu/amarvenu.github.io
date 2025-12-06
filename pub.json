@@ -1,4 +1,27 @@
 [
+  {
+    "title": "Evaluating Generative AI in Benefits Administration: A Demonstration Project",
+    "authors": [
+      {
+        "name": "Varun Magesh",
+        "link": ""
+      },
+      {
+        "name": "Faiz Surani",
+        "link": ""
+      },
+      {
+        "name": "Kit Rodolfa",
+        "link": ""
+      },
+      {
+        "name": "Daniel E. Ho",
+        "link": "https://dho.stanford.edu/about/"
+      }
+    ],
+    "abstract": "Government benefits programs are a primary touchpoint between citizens and the state. Yet they form a core challenge for government modernization, with legacy systems that strain when demand is highest. Agencies are exploring artificial intelligence (AI) and machine learning (ML) tools for these systems while vendors eagerly market such solutions. The potential benefits and risks of these tools are profound when applied to benefits systems where timeliness and accuracy are essential to due process. We present a collaboration with the US Department of Labor (DOL) and the Colorado Department of Labor and Employment (CDLE) to develop and evaluate Generative AI tools to modernize a pillar of the social safety net: Unemployment Insurance (UI). We make four primary contributions. First, we established the first comprehensive sandbox environment for AI evaluation in benefits administration, enabling co-design of a GenAI system with agency staff and providing unique access to granular, individual-level adjudication data such as editing patterns and cross-adjudicator variation. Second, we developed a systematic methodology for eliciting and encoding expert quality assessment from adjudicators, contributing to the broader challenge of measuring adjudication quality and aligning AI systems with domain-expert values. Third, we conducted a randomized controlled trial evaluating our fact finding assistance system on real, historical cases, with outcome measures capturing both decision quality and fine-grained behavioral data. Fourth, our evaluation reveals a critical divergence: AI fact finding was a substantial improvement to historical (observational) baselines and examiners subjectively rated the system highly; but the system did not improve quality or efficiency in the sandbox control group, though it may reduce inter-adjudicator variance. This contrast demonstrates that rigorous, context-situated evaluation is essential to evaluate AI in legal contexts.",
+    "appendedText": "Accepted, <em>5th ACM Symposium on Computer Science and Law</em> (2026)"
+  },
     {
         "title": "Evaluation as Due Process: Civil Service in an Automated Age",
         "authors": [
