@@ -1,5 +1,22 @@
 [
     {
+      "title": "The Law of Evaluation: Beyond Benchmarks for AI Governance",
+      "authors": [
+        {
+          "name": "Daniel E. Ho",
+          "link": "https://dho.stanford.edu/about/"
+        },
+        {
+          "name": "Joyce Tagal",
+          "link": ""
+        }
+      ],
+      "date": "January 2026",
+      "pdf": "",
+      "abstract": "AI systems are growing more complex, more embedded, and more consequential all while the practices for evaluating these systems remain strikingly thin. Models now shape high-stakes decisions across private and public sectors, yet they are often assessed through static benchmarks, internal demos, or short-horizon audits that reveal little about real-world performance, distributional effects, or downstream impact. This Article argues that effective AI governance must be built around legally grounded, ongoing evaluation rather than episodic or purely technical assessment. Drawing on public law frameworks governing performance measurement, evidence-based policymaking, and procurement, we show that existing law already supplies the mandate, authority, and framework for rigorous, system-level evaluation of AI deployments. We identify independence and resourcing as the central institutional challenges, which must be coupled with technical advances, to shape whether evaluation produces meaningful oversight. Risk-tailored evaluation that integrates pilot testing, randomized trials, quality assurance, and performance measurement will be central. We conclude by outlining institutional models through which AI researchers, funders, governments, and private actors can embed evaluation as a core feature of AI governance.",
+      "appendedText": "Forthcoming, <em>Journal of Law and Innovation</em> (2026)"
+    },
+    {
         "title": "The Social and Individual Effects of Homeless Shelter: Evidence from Temporary Shelter Provision",
         "authors": [
           {
