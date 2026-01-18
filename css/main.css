@@ -60,19 +60,19 @@ img{
 
 
 #left{
-    width: 20%;
-    max-width: 300px;
-    min-width: 200px;
+    width: 30%;
+    max-width: 400px;
+    min-width: 250px;
     justify-content: left;
     top: 0;
     vertical-align: top;
     position:fixed;
 }
 #right{
-    width:65%;
+    width:60%;
     margin-top: 0%;
-    margin-right: 10%;
-    margin-left: 10%;    
+    margin-right: 5%;
+    margin-left: 32%;    
     float: right; 
     display:inline-block;
 }
