@@ -1,5 +1,41 @@
 [
   {
+    "title": "Detailees",
+    "authors": [
+      {
+        "name": "Isaac Cui",
+        "link": ""
+      },
+      {
+        "name": "Daniel E. Ho",
+        "link": "https://dho.stanford.edu/about/"
+      },
+      {
+        "name": "Anne Joseph O'Connell",
+        "link": "https://law.stanford.edu/anne-joseph-oconnell/"
+      }
+    ],
+    "abstract": "The federal civil service is in many ways stuck in the 1950s, with rigid position classifications, glacial hiring, and linear career trajectories. Yet agencies have quietly built a workaround: detailing employees across organizational boundaries. Details are a kind of duct tape holding together an outdated system, revealing what a more flexible, capacity-building government might look like. But details are also how the Trump Administration redirected 25,000 federal employees to immigration enforcement, embedded DOGE operatives throughout the executive branch, and functionally reorganized agencies without congressional approval. In short, details can make government work. They can also make it lawless. \n\n This Article offers the first systematic account of federal detailing. We trace its origins from the Founding through the Economy Act's transformation into a vehicle for presidential administration, and we document its prevalence through a novel survey of thousands of U.S. Code provisions, original FOIA data, and interviews with career officials. We develop a typology clarifying why the same mechanism produces such divergent outcomes, and we show how details doctrinally stress-test foundational principles of public law—from the Appointments Clause to appropriations constraints to civil service protections. Details, it turns out, are both symptom and potential cure for what ails the civil service. The question is whether law can distinguish the two.",
+    "appendedText": "Forthcoming in 111 Minn. L. Rev. (2026)"
+  },
+  {
+    "title": "The Law of Evaluation: Beyond Benchmarks for AI Governance",
+    "authors": [
+      {
+        "name": "Daniel E. Ho",
+        "link": "https://dho.stanford.edu/about/"
+      },
+      {
+        "name": "Joyce Tagal",
+        "link": ""
+      }
+    ],
+    "date": "January 2026",
+    "pdf": "https://dho.stanford.edu/wp-content/uploads/LawAIEvals.pdf",
+    "abstract": "AI systems are growing more complex, more embedded, and more consequential all while the practices for evaluating these systems remain strikingly thin. Models now shape high-stakes decisions across private and public sectors, yet they are often assessed through static benchmarks, internal demos, or short-horizon audits that reveal little about real-world performance, distributional effects, or downstream impact. This Article argues that effective AI governance must be built around legally grounded, ongoing evaluation rather than episodic or purely technical assessment. Drawing on public law frameworks governing performance measurement, evidence-based policymaking, and procurement, we show that existing law already supplies the mandate, authority, and framework for rigorous, system-level evaluation of AI deployments. We identify independence and resourcing as the central institutional challenges, which must be coupled with technical advances, to shape whether evaluation produces meaningful oversight. Risk-tailored evaluation that integrates pilot testing, randomized trials, quality assurance, and performance measurement will be central. We conclude by outlining institutional models through which AI researchers, funders, governments, and private actors can embed evaluation as a core feature of AI governance.",
+    "appendedText": "Forthcoming, <em>Journal of Law and Innovation</em> (2026)"
+  },
+  {
     "title": "Evaluating Generative AI in Benefits Administration: A Demonstration Project",
     "authors": [
       {
@@ -20,7 +56,7 @@
       }
     ],
     "abstract": "Government benefits programs are a primary touchpoint between citizens and the state. Yet they form a core challenge for government modernization, with legacy systems that strain when demand is highest. Agencies are exploring artificial intelligence (AI) and machine learning (ML) tools for these systems while vendors eagerly market such solutions. The potential benefits and risks of these tools are profound when applied to benefits systems where timeliness and accuracy are essential to due process. We present a collaboration with the US Department of Labor (DOL) and the Colorado Department of Labor and Employment (CDLE) to develop and evaluate Generative AI tools to modernize a pillar of the social safety net: Unemployment Insurance (UI). We make four primary contributions. First, we established the first comprehensive sandbox environment for AI evaluation in benefits administration, enabling co-design of a GenAI system with agency staff and providing unique access to granular, individual-level adjudication data such as editing patterns and cross-adjudicator variation. Second, we developed a systematic methodology for eliciting and encoding expert quality assessment from adjudicators, contributing to the broader challenge of measuring adjudication quality and aligning AI systems with domain-expert values. Third, we conducted a randomized controlled trial evaluating our fact finding assistance system on real, historical cases, with outcome measures capturing both decision quality and fine-grained behavioral data. Fourth, our evaluation reveals a critical divergence: AI fact finding was a substantial improvement to historical (observational) baselines and examiners subjectively rated the system highly; but the system did not improve quality or efficiency in the sandbox control group, though it may reduce inter-adjudicator variance. This contrast demonstrates that rigorous, context-situated evaluation is essential to evaluate AI in legal contexts.",
-    "appendedText": "Accepted, <em>5th ACM Symposium on Computer Science and Law</em> (2026)"
+    "appendedText": "<em>5th ACM Symposium on Computer Science and Law</em> (2026)<br/>Awarded Best Paper at Conference"
   },
     {
         "title": "Evaluation as Due Process: Civil Service in an Automated Age",
@@ -86,4 +122,4 @@
       "abstract": "Although expertise is a pillar of public administration and administrative law, the government is increasingly missing experts. The U.S. federal government faces a personnel crisis of staggering proportions, with sharp pain points in civil service hiring—especially in science and technology—and the political appointments process. With urgent challenges like the rapid development of artificial intelligence, national cybersecurity, and climate change, an inadequate workforce raises fundamental concerns for legitimate governance. This Article documents a novel and important way that agencies are responding to this crisis: temporary assignments into federal agencies, what we call \"governing by assignment,\" under the Intergovernmental Personnel Act of 1970 (IPA). To date, legal scholarship, casebooks, and treatises have missed this trend. But Beltway insiders have not. Congressional inquiries question the legality of governing by assignment, raising basic questions about its scope, authority, and utility. We intervene in this pressing debate by providing the first systematic account of the administrative law of governing by assignment and by spelling out key nuances in IPA practice to inform policy discussions about governmental capacity and good governance norms.",
       "appendedText": "173 <em>U. Pa. L. Rev. </em> 157 (2024)"
     }
-  ]
+]
