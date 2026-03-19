@@ -1,22 +1,5 @@
 [
     {
-      "title": "The Law of Evaluation: Beyond Benchmarks for AI Governance",
-      "authors": [
-        {
-          "name": "Daniel E. Ho",
-          "link": "https://dho.stanford.edu/about/"
-        },
-        {
-          "name": "Joyce Tagal",
-          "link": ""
-        }
-      ],
-      "date": "January 2026",
-      "pdf": "https://dho.stanford.edu/wp-content/uploads/LawAIEvals.pdf",
-      "abstract": "AI systems are growing more complex, more embedded, and more consequential all while the practices for evaluating these systems remain strikingly thin. Models now shape high-stakes decisions across private and public sectors, yet they are often assessed through static benchmarks, internal demos, or short-horizon audits that reveal little about real-world performance, distributional effects, or downstream impact. This Article argues that effective AI governance must be built around legally grounded, ongoing evaluation rather than episodic or purely technical assessment. Drawing on public law frameworks governing performance measurement, evidence-based policymaking, and procurement, we show that existing law already supplies the mandate, authority, and framework for rigorous, system-level evaluation of AI deployments. We identify independence and resourcing as the central institutional challenges, which must be coupled with technical advances, to shape whether evaluation produces meaningful oversight. Risk-tailored evaluation that integrates pilot testing, randomized trials, quality assurance, and performance measurement will be central. We conclude by outlining institutional models through which AI researchers, funders, governments, and private actors can embed evaluation as a core feature of AI governance.",
-      "appendedText": "Forthcoming, <em>Journal of Law and Innovation</em> (2026)"
-    },
-    {
         "title": "The Social and Individual Effects of Homeless Shelter: Evidence from Temporary Shelter Provision",
         "authors": [
           {
@@ -31,7 +14,7 @@
         "date": "October 2025",
         "pdf": "https://www.nber.org/system/files/working_papers/w34376/w34376.pdf",
         "abstract": "What does homeless shelter achieve? We leverage administrative records of homeless services in Los Angeles County to construct a novel dataset of daily, site-level counts of shelter beds and occupants from 2014 to 2019. We pair this with daily, block-level crime incident data and daily, hospital-level data on ER visits to assess the relationship between shelter and area crime and health. We exploit variation from shocks to shelter availability from Los Angeles County's winter shelters program to study the effects of providing temporary shelter. We find that reducing unsheltered homelessness significantly reduces crime and ER visits for psychiatric conditions. We conclude with evidence that entering shelter also reduces short-run mortality but find no evidence that temporary shelter reduces future homelessness more than street outreach or other non-shelter services. Our findings suggest that shelter functions as a public good with high social benefits. When agents charged with provision of homeless services are evaluated on their ability to reduce overall homelessness, they are unlikely to internalize these benefits and may under provide shelter.",
-        "appendedText": "Under Review"
+        "appendedText": ""
       },
       {
         "title": "Courts and the Policing of Homelessness",
@@ -44,25 +27,6 @@
         "date": "October 2025",
         "pdf": "files/Martin_Homelessness_30Jan2026.pdf",
         "abstract": "Federal court decisions can reshape local governments’ enforcement authority, but their impact depends on how cities adapt. Between 2018 and 2024, federal rulings restricted Western U.S. cities’ ability to cite individuals for sleeping or camping in public unless adequate shelter was available. This limitation was widely blamed for rising visible homelessness. Using novel data on enforcement and homelessness from over 50 cities along with a synthetic difference-in-differences design, we find no evidence that the rulings substantially reduced enforcement or increased visible homelessness. Cities responded heterogeneously: some curtailed citations, while others maintained enforcement through alternative mechanisms such as encampment clearings. When the Supreme Court reversed the restrictions in 2024, citations rose but homelessness did not decline. These results suggest that federal constraints on local enforcement have limited effects when cities can adapt along unregulated margins, and that structural conditions such as housing costs and service capacity likely play a larger role in shaping unsheltered homelessness.",
-        "appendedText": ""
-      },
-      {
-        "title": "Detailees",
-        "authors": [
-            {
-              "name": "Isaac Cui",
-              "link": ""
-            },
-            {
-              "name": "Daniel E. Ho",
-              "link": "https://dho.stanford.edu/about/"
-            },
-            {
-              "name": "Anne Joseph O'Connell",
-              "link": "https://law.stanford.edu/anne-joseph-oconnell/"
-            }
-        ],
-        "abstract": "The federal civil service is in many ways stuck in the 1950s, with rigid position classifications, glacial hiring, and linear career trajectories. Yet agencies have quietly built a workaround: detailing employees across organizational boundaries. Details are a kind of duct tape holding together an outdated system, revealing what a more flexible, capacity-building government might look like. But details are also how the Trump Administration redirected 25,000 federal employees to immigration enforcement, embedded DOGE operatives throughout the executive branch, and functionally reorganized agencies without congressional approval. In short, details can make government work. They can also make it lawless. \n\n This Article offers the first systematic account of federal detailing. We trace its origins from the Founding through the Economy Act's transformation into a vehicle for presidential administration, and we document its prevalence through a novel survey of thousands of U.S. Code provisions, original FOIA data, and interviews with career officials. We develop a typology clarifying why the same mechanism produces such divergent outcomes, and we show how details doctrinally stress-test foundational principles of public law—from the Appointments Clause to appropriations constraints to civil service protections. Details, it turns out, are both symptom and potential cure for what ails the civil service. The question is whether law can distinguish the two.",
         "appendedText": ""
       }
 ]
