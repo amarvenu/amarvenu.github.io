@@ -64,13 +64,21 @@ function populatePapers(jsonList, containerID, showDate) {
         `;
       }
   
-      // Only show date for actual 'Working Papers'
-      if (showDate && paper.date) {
-        html += `
+      // Working papers: "Last updated" date, or a custom status line (e.g. R&R with journal)
+      if (showDate) {
+        if (paper.status) {
+          html += `
+          <p class="paper-date">
+            ${paper.status}
+          </p>
+          `;
+        } else if (paper.date) {
+          html += `
           <p class="paper-date">
             Last updated: ${paper.date}
           </p>
-        `;
+          `;
+        }
       }
   
       // Build links line: show Abstract link only if abstract text exists
