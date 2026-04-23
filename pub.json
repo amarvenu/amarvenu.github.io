@@ -1,125 +1,32 @@
 [
   {
-    "title": "Detailees",
+    "title": "Double and Single Descent in Causal Inerence with an Application to High-Dimensional Synthetic Control",
     "authors": [
       {
-        "name": "Isaac Cui",
-        "link": ""
+        "name": "Jann Spiess",
+        "link": "https://gsb-faculty.stanford.edu/jann-spiess/"
       },
       {
-        "name": "Daniel E. Ho",
-        "link": "https://dho.stanford.edu/about/"
-      },
-      {
-        "name": "Anne Joseph O'Connell",
-        "link": "https://law.stanford.edu/anne-joseph-oconnell/"
+        "name": "Guido Imbens",
+        "link": "https://gsb-faculty.stanford.edu/guido-w-imbens/"
       }
     ],
-    "abstract": "The federal civil service is in many ways stuck in the 1950s, with rigid position classifications, glacial hiring, and linear career trajectories. Yet agencies have quietly built a workaround: detailing employees across organizational boundaries. Details are a kind of duct tape holding together an outdated system, revealing what a more flexible, capacity-building government might look like. But details are also how the Trump Administration redirected 25,000 federal employees to immigration enforcement, embedded DOGE operatives throughout the executive branch, and functionally reorganized agencies without congressional approval. In short, details can make government work. They can also make it lawless. \n\n This Article offers the first systematic account of federal detailing. We trace its origins from the Founding through the Economy Act's transformation into a vehicle for presidential administration, and we document its prevalence through a novel survey of thousands of U.S. Code provisions, original FOIA data, and interviews with career officials. We develop a typology clarifying why the same mechanism produces such divergent outcomes, and we show how details doctrinally stress-test foundational principles of public law—from the Appointments Clause to appropriations constraints to civil service protections. Details, it turns out, are both symptom and potential cure for what ails the civil service. The question is whether law can distinguish the two.",
-    "appendedText": "Forthcoming, 111 <em>Minn. L. Rev.</em> (2026)"
+    "date": "December 2023",
+    "pdf": "https://proceedings.neurips.cc/paper_files/paper/2023/file/c904c5d43d8a01177063977bd67bf6fc-Paper-Conference.pdf",
+    "abstract": "Motivated by a recent literature on the double-descent phenomenon in machine learning, we consider highly over-parameterized models in causal inference, including synthetic control with many control units. In such models, there may be so many free parameters that the model fits the training data perfectly. We first investigate high-dimensional linear regression for imputing wage data and estimating average treatment effects, where we find that models with many more covariates than sample size can outperform simple ones. We then document the performance of high-dimensional synthetic control estimators with many control units. We find that adding control units can help improve imputation performance even beyond the point where the pre-treatment fit is perfect. We provide a unified theoretical perspective on the performance of these high-dimensional models. Specifically, we show that more complex models can be interpreted as model-averaging estimators over simpler ones, which we link to an improvement in average performance. This perspective yields concrete insights into the use of synthetic control when control units are many relative to the number of pre-treatment periods.",
+    "appendedText": "<em>Advances in Neural Information Processing Systems</em> Vol. 36 (NeurIPS) (2023). NBER Working Paper 31802."
   },
   {
-    "title": "The Law of Evaluation: Beyond Benchmarks for AI Governance",
+    "title": "Search for bottom-type, vectorlike quark pair production in a fully hadronic final state in proton-proton collisions at √𝑠 = 13 TeV.",
     "authors": [
       {
-        "name": "Daniel E. Ho",
-        "link": "https://dho.stanford.edu/about/"
-      },
-      {
-        "name": "Joyce Tagal",
-        "link": ""
+        "name": "The CMS Collaboration",
+        "link": "https://cms.cern/collaboration"
       }
     ],
-    "date": "January 2026",
-    "pdf": "https://dho.stanford.edu/wp-content/uploads/LawAIEvals.pdf",
-    "abstract": "AI systems are growing more complex, more embedded, and more consequential all while the practices for evaluating these systems remain strikingly thin. Models now shape high-stakes decisions across private and public sectors, yet they are often assessed through static benchmarks, internal demos, or short-horizon audits that reveal little about real-world performance, distributional effects, or downstream impact. This Article argues that effective AI governance must be built around legally grounded, ongoing evaluation rather than episodic or purely technical assessment. Drawing on public law frameworks governing performance measurement, evidence-based policymaking, and procurement, we show that existing law already supplies the mandate, authority, and framework for rigorous, system-level evaluation of AI deployments. We identify independence and resourcing as the central institutional challenges, which must be coupled with technical advances, to shape whether evaluation produces meaningful oversight. Risk-tailored evaluation that integrates pilot testing, randomized trials, quality assurance, and performance measurement will be central. We conclude by outlining institutional models through which AI researchers, funders, governments, and private actors can embed evaluation as a core feature of AI governance.",
-    "appendedText": "Forthcoming, <em>J. L. & Innovation</em> (2026)"
-  },
-  {
-    "title": "Evaluating Generative AI in Benefits Administration: A Demonstration Project",
-    "authors": [
-      {
-        "name": "Varun Magesh",
-        "link": ""
-      },
-      {
-        "name": "Faiz Surani",
-        "link": ""
-      },
-      {
-        "name": "Kit Rodolfa",
-        "link": ""
-      },
-      {
-        "name": "Daniel E. Ho",
-        "link": "https://dho.stanford.edu/about/"
-      }
-    ],
-    "abstract": "Government benefits programs are a primary touchpoint between citizens and the state. Yet they form a core challenge for government modernization, with legacy systems that strain when demand is highest. Agencies are exploring artificial intelligence (AI) and machine learning (ML) tools for these systems while vendors eagerly market such solutions. The potential benefits and risks of these tools are profound when applied to benefits systems where timeliness and accuracy are essential to due process. We present a collaboration with the US Department of Labor (DOL) and the Colorado Department of Labor and Employment (CDLE) to develop and evaluate Generative AI tools to modernize a pillar of the social safety net: Unemployment Insurance (UI). We make four primary contributions. First, we established the first comprehensive sandbox environment for AI evaluation in benefits administration, enabling co-design of a GenAI system with agency staff and providing unique access to granular, individual-level adjudication data such as editing patterns and cross-adjudicator variation. Second, we developed a systematic methodology for eliciting and encoding expert quality assessment from adjudicators, contributing to the broader challenge of measuring adjudication quality and aligning AI systems with domain-expert values. Third, we conducted a randomized controlled trial evaluating our fact finding assistance system on real, historical cases, with outcome measures capturing both decision quality and fine-grained behavioral data. Fourth, our evaluation reveals a critical divergence: AI fact finding was a substantial improvement to historical (observational) baselines and examiners subjectively rated the system highly; but the system did not improve quality or efficiency in the sandbox control group, though it may reduce inter-adjudicator variance. This contrast demonstrates that rigorous, context-situated evaluation is essential to evaluate AI in legal contexts.",
-    "appendedText": "<em>5th ACM Symposium on Computer Science and Law</em> (2026)<br/>Awarded Best Paper at Conference"
-  },
-    {
-        "title": "Evaluation as Due Process: Civil Service in an Automated Age",
-        "authors": [
-          {
-            "name": "Kit Rodolfa",
-            "link": ""
-          },
-          {
-            "name": "Amy Perez",
-            "link": ""
-          },
-          {
-            "name": "Daniel E. Ho",
-            "link": "https://dho.stanford.edu/about/"
-          }
-        ],
-        "pdf": "https://administrativelawreview.org/wp-content/uploads/sites/2/2025/12/ALR-77.4_HoMartinPerezRodolfa.pdf",
-        "abstract": "Modern government is built on the civil service. The twentieth century consensus, emerging out of the New Deal, was based on a social safety net administered by civil servants to ensure fair administration and due process. Yet today, decades of denying agencies the legal flexibility and technical resources to modernize have created a crisis that fuels political backlash. This crisis is now driving hasty attempts at technological fixes: the \"Department of Government Efficiency\" seeks to dismantle the civil service through mass layoffs and rapid AI deployment. At the same time, understaffed state agencies are experimenting with AI for benefits administration, with one claiming its system \"taught itself all of the [state's] eligibility rules\" and eliminated a massive claims backlog in one month. Both approaches can rush toward AI solutions without adequate safeguards, presenting a false choice between dysfunctional status quo and reckless technological disruption, when thoughtful modernization could preserve administrative due process while meeting modern challenges. This Article charts a path beyond this impasse by examining how administrative law should govern AI's evolving role in benefits adjudication. We trace how merit staffing requirements, designed to ensure procedural fairness and insulate decisions from politics, have also impeded responsible innovation. These regulations produce contradictory guidance that leaves states uncertain about AI's legal boundaries, forcing them to choose between violating timeliness mandates or merit staffing rules. The pandemic intensified this dilemma, spurring widespread state experimentation—from fraud detection to chatbots to \"auto-adjudication.\" While AI tools can drastically reduce backlogs, increase outreach, and improve efficiency, they also introduce risks of error, opacity, and bias. Through a simple yet novel audit of state systems, we expose vulnerabilities in these largely unexamined experiments. Yet we also show, through the IRS's evaluation of its phone help line that integrated machine assistance, that rigorous assessment of human-AI systems is both feasible and essential. We argue that the path forward to vindicating constitutional and administrative law values lies in evaluation. While implicit in Mathews v. Eldridge, the failure to make this explicit has led to neglect. Evaluation as due process is not merely a bureaucratic exercise but a legal imperative—a means of operationalizing due process at scale and with flexibility that preserves the dignity, fairness, and accountability of administrative systems.",
-        "appendedText": "77 <em>Admin L. Rev</em> 831 (2025)"
-      },
-    {
-        "title": "The Spectrum of AI Integration: The Case of Benefits Adjudication",
-        "authors": [
-          {
-            "name": "Faiz Surani",
-            "link": ""
-          },
-          {
-            "name": "Kit Rodolfa",
-            "link": ""
-          },
-          {
-            "name": "Amy Perez",
-            "link": ""
-          },
-          {
-            "name": "Daniel E. Ho",
-            "link": "https://dho.stanford.edu/about/"
-          }
-        ],
-        "pdf": "https://dho.stanford.edu/wp-content/uploads/Spectrum_AI.pdf",
-        "abstract": "The central move of AI regulation is to trigger a set of minimum processes, protections, and safeguards when AI is used, such as opt-out mechanisms, rights to human review, and public consultation. We argue that this move is mistaken for one simple reason: AI is not monolithic. By taking a rigidly \"rights-based\" approach to AI regulation, such an approach may be failing to learn from the Supreme Court's procedural due process revolution, which warns that, lest government grind to a halt, process must be tailored to the level of risk involved. So too for AI. We illustrate this challenge with the case of benefits adjudication—where many have argued extensive processes should apply for use of AI. We show the wide range of risks across applications, which we term the spectrum of AI integration, and how poorly suited many regulatory interventions are to the reality of AI integration. While a single domain (benefits adjudication) might be dubbed \"high-risk,\" the spectrum of AI integration means that the variance of risk within a domain may be far more relevant (and higher) than variance across domains. Regulation that gets this wrong will harm urgently needed modernization efforts.",
-        "appendedText": "<em>in AI: Legal Issues, Policy, and Practical Strategies </em> (2024)"
-      },
-    {
-      "title": "Governing by Assignment",
-      "authors": [
-        {
-          "name": "Isaac Cui",
-          "link": ""
-        },
-        {
-          "name": "Daniel E. Ho",
-          "link": "https://dho.stanford.edu/about/"
-        },
-        {
-          "name": "Anne Joseph O'Connell",
-          "link": ""
-        }
-      ],
-      "pdf": "https://dho.stanford.edu/wp-content/uploads/IPA.pdf",
-      "abstract": "Although expertise is a pillar of public administration and administrative law, the government is increasingly missing experts. The U.S. federal government faces a personnel crisis of staggering proportions, with sharp pain points in civil service hiring—especially in science and technology—and the political appointments process. With urgent challenges like the rapid development of artificial intelligence, national cybersecurity, and climate change, an inadequate workforce raises fundamental concerns for legitimate governance. This Article documents a novel and important way that agencies are responding to this crisis: temporary assignments into federal agencies, what we call \"governing by assignment,\" under the Intergovernmental Personnel Act of 1970 (IPA). To date, legal scholarship, casebooks, and treatises have missed this trend. But Beltway insiders have not. Congressional inquiries question the legality of governing by assignment, raising basic questions about its scope, authority, and utility. We intervene in this pressing debate by providing the first systematic account of the administrative law of governing by assignment and by spelling out key nuances in IPA practice to inform policy discussions about governmental capacity and good governance norms.",
-      "appendedText": "173 <em>U. Pa. L. Rev. </em> 157 (2024)"
-    }
+    "date": "December 2020",
+    "pdf": "https://journals.aps.org/prd/pdf/10.1103/PhysRevD.102.112004",
+    "abstract": "A search is described for the production of a pair of bottom-type vectorlike quarks (VLQs), each decaying into a b or ¯b quark and either a Higgs or a Z boson, with a mass greater than 1000 GeV. The analysis is based on data from proton-proton collisions at a 13 TeV center-of-mass energy recorded at the CERN LHC, corresponding to a total integrated luminosity of 137 fb−1. As the predominant decay modes of the Higgs and Z bosons are to a pair of quarks, the analysis focuses on final states consisting of jets resulting from the six quarks produced in the events. Since the two jets produced in the decay of a highly Lorentz-boosted Higgs or Z boson can merge to form a single jet, nine independent analyses are performed, categorized by the number of observed jets and the reconstructed event mode. No signal in excess of the expected background is observed. Lower limits are set on the VLQ mass at 95% confidence level equal to 1570 GeV in the case where the VLQ decays exclusively to a b quark and a Higgs boson, 1390 GeV for when it decays exclusively to a b quark and a Z boson, and 1450 GeV for when it decays equally in these two modes. These limits represent significant improvements over the previously published VLQ limits.",
+    "appendedText": "<em>Phys. Rev. D</em> 102, 11204 (2020)"
+  }
 ]

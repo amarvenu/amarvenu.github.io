@@ -1,5 +1,5 @@
 function populatePapers(jsonList, containerID, showDate) {
-    const yourName = "Olivia Martin";
+    const yourName = "Amar Venugopal";
     const papersList = document.getElementById(containerID);
     if (!papersList) {
       console.error(`Container element with ID "${containerID}" not found`);
