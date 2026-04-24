@@ -9,7 +9,7 @@
         ],
         "date": "April 2026",
         "status": "arXiv preprint",
-        "pdf": "",
+        "pdf": "https://arxiv.org/pdf/2604.21202",
         "abstract": "Local government meetings are the most common formal channel through which residents speak directly with elected officials, contest policies, and shape local agendas. However, data constraints typically limit the empirical study of these meetings to agendas, single cities, or short time horizons. We collect and transcribe a massive new dataset of city council meetings from 115 California cities over the last decade, using advanced transcription and diarization techniques to analyze the speech content of the meetings themselves. We document two sets of descriptive findings: First, city council meetings are frequent, long, and vary modestly across towns and time in topical content. Second, public participants are substantially older, whiter, more male, more liberal, and more likely to own homes than the registered voter population, and public participation surges when topics related to land use and zoning are included in meeting agendas. Given this skew, we examine the main policy lever municipalities have to shift participation patterns: meeting access costs. Exploiting pandemic-era variation in remote access, we show that eliminating remote options reduces the number of speakers, but does not clearly change the composition of speakers. Collectively, these results provide the most comprehensive empirical portrait to date of who participates in local democracy, what draws them in, and how institutional design choices shape both the volume and composition of public input.",
         "appendedText": ""
       },
