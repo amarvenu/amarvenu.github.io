@@ -1,6 +1,29 @@
 [
   {
-    "title": "",
+    "title": "Assessing AI Choice Prediction",
+    "authors": [
+      {
+        "name": "B. Douglas Bernheim",
+        "link": "https://economics.stanford.edu/people/b-douglas-bernheim"
+      },
+      {
+        "name": "Daniel Björkegren",
+        "link": "https://dan.bjorkegren.com/index.html"
+      },
+      {
+        "name": "Michael Pollmann",
+        "link": "https://michaelpollmann.github.io/"
+      },
+      {
+        "name": "Peter Robertson",
+        "link": ""
+      }
+    ],
+    "abstract": "",
+    "appendedText": ""
+  },
+  {
+    "title": "Intepretable Causal Estimation with Text-as-Treatment",
     "authors": [
     ],
     "abstract": "",
