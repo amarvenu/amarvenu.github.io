@@ -270,3 +270,14 @@ a:hover{
 .paper-entry {
   margin-bottom: 1.5rem;  /* adjust to taste */
 }
+
+#left a,
+#left a:visited {
+    color: #004b87;
+    font-weight: 500;
+}
+
+#left a:hover {
+    color: #002f57;
+    text-decoration: underline;
+}
