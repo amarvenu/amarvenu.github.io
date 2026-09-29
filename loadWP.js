@@ -146,5 +146,10 @@ function populatePapers(jsonList, containerID, showDate) {
       .then(r => r.json())
       .then(papers => populatePapers(papers, 'wipList', false))
       .catch(e => console.error("Error loading wip.json:", e));
+    
+      fetch('jmp.json')
+        .then(r => r.json())
+        .then(papers => populatePapers(papers, 'JMPList', false))
+        .catch(e => console.error("Error loading wip.json:", e));
   });
   
