@@ -3,7 +3,8 @@
       "title": "Distributional Synthetic Control for Text Outcomes with an Application to Local Government Speech",
       "authors": [
       ],
-      "abstract": "",
+      "pdf": "https://amarvenugopal.com/files/amar_venugopal_jmp.pdf",
+      "abstract": "Applied researchers increasingly study problems in which outcomes of interest are expressed in text. In this paper, I develop a distributional synthetic control framework for causal inference on text outcomes in observational panel settings. The treated unit’s counterfactual is modeled as a mixture of contemporaneous distributions from untreated units, with weights estimated to minimize inter-distributional distance pre-treatment. I propose a hypothesis-generation procedure which discovers aspects of text that differ between the observed treated corpus and its constructed counterfactual distribution. In an asymptotic regime in which the number of documents in each cell of the panel matrix grows, I establish consistency and asymptotic normality of treatment effect estimators on pre-specified aspects of text; in the case of discovered aspects, I establish analogous results via sample-splitting, conditional on the learned aspect. In an application to California city council meeting public comments, I find that the elimination of remote participation options in the aftermath of the COVID-19 pandemic in several cities led to increased civility and reduced hostility in public comments.",
       "appendedText": ""
     }
   ]
